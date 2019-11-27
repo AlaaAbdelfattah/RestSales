@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 AlaaEid4Work add new line  ==>1 
+=======
+AlaaEid4Git Added this line ==>1 
+>>>>>>> ae7f42565038e0fd5adcedcd8d59aafe07c7afc5
+
+Ok i will accept all .
